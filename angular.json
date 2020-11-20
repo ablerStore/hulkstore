@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "hulkStore"
+  "defaultProject": "hulkStore",
+  "cli": {
+    "analytics": false
+  }
 }
